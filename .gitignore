@@ -62,13 +62,6 @@ Intermediate/*
 DerivedDataCache/*
 
 # Content files
-Content/Collections
-Content/Developers
-Content/Geometry
-Content/Mannequin
-Content/StarterContent
-Content/ThirdPerson
-Content/ThirdPersonBP
 Content/Chibi_characters
 Content/DynamicSwordAnimset
 Content/InfinityBladeEffects
