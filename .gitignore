@@ -61,6 +61,15 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Content files
+Content/Collections
+Content/Developers
+Content/Geometry
+Content/Mannequin
+Content/StarterContent
+Content/ThirdPerson
+Content/ThirdPersonBP
+
 # =========================
 # Operating System Files
 # =========================
